@@ -14,8 +14,11 @@
 - 📍 Location: San Francisco, CA
 
 🚀 Skills:
+
 •	Programming languages: Java, Python (NumPy, Pandas, Matplotlib), R.
+
 •	Databases and Big data tools: Spark, Hadoop, NoSQL (Mongo Db), MySQL, Airflow, Kafka.
+
 •	Other Skills: Tableau, Power BI, ETL, Linux, AWS (Cloud), Git, Jenkins, Unix/Linux, Agile/Scrum, Microsoft office (Word, PowerPoint, excel), Jira, Snowflake, Redshift, CI/CD, Elastic Search.
 
 
