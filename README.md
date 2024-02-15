@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajitbhosale&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajitbhosale" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwajitbhosale" alt="vishwajitbhosale" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [hhttps://github.com/Vishwajitbhosale](hhttps://github.com/Vishwajitbhosale)
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/5452300426172724932](https://www.blogger.com/blog/posts/5452300426172724932)
