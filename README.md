@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwajitbhosale&show_icons=true&locale=en" alt="vishwajitbhosale" /></p>
 
-<img src="https://raw.githubusercontent.com/Vishwajitbhosale/Vishwajitbhosale/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Vishwajitbhosale/Vishwajitbhosale/blob/output/github-contribution-grid-snake.gif)
