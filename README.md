@@ -11,6 +11,15 @@
 
 - ⚡ Fun fact **Playing Cricket**
 
+- 📍 Location: San Francisco, CA
+
+🚀 Skills:
+•	Programming languages: Java, Python (NumPy, Pandas, Matplotlib), R.
+•	Databases and Big data tools: Spark, Hadoop, NoSQL (Mongo Db), MySQL, Airflow, Kafka.
+•	Other Skills: Tableau, Power BI, ETL, Linux, AWS (Cloud), Git, Jenkins, Unix/Linux, Agile/Scrum, Microsoft office (Word, PowerPoint, excel), Jira, Snowflake, Redshift, CI/CD, Elastic Search.
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishwajit bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwajit bhosale" height="30" width="40" /></a>
