@@ -21,3 +21,6 @@ Connect with Me
 https://www.linkedin.com/in/vishwajit-bhosale-400842202/
 
 Email: bhosalevishvajeet04@gmail.com
+
+Wanna see my Blogs ❓ 📝
+https://bhosalevishwajit04.blogspot.com/2023/06/kafka-empowering-real-time-data.html
