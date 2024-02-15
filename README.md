@@ -1,6 +1,7 @@
 Vishwajit Bhosale
 Welcome to My GitHub 👋
 Data Engineer | Data Analyst | Automation Tester
+
 Leveraging technology to build amazing things. I love working with Java, Python, Selenium, Tableau and I'm passionate about cloud computing and AI/ML.
 
 🚀 Current Endeavors
@@ -8,7 +9,9 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 
 Quick Facts
 📍 Location: San Francisco, CA
+
 💼 Experience: Data Engineer | Data Analyst | Automation Tester
+
 🚀 Skills:
 •	Programming languages: Java, Python (NumPy, Pandas, Matplotlib), R.
 •	Databases and Big data tools: Spark, Hadoop, NoSQL (Mongo Db), MySQL, Airflow, Kafka.
