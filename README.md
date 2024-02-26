@@ -1,4 +1,4 @@
-1<h1 align="center">Hi 👋, I'm Vishwajit Bhosale</h1>
+<h1 align="center">Hi 👋, I'm Vishwajit Bhosale</h1>
 <h3 align="center">Data Engineer | Data Analyst | Automation Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajitbhosale&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajitbhosale" /> </p>
@@ -9,7 +9,7 @@
 <a href="https://instagram.com/vishwajit04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishwajit04" height="30" width="40" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at [hhttps://github.com/Vishwajitbhosale](hhttps://github.com/Vishwajitbhosale)
+- 👨‍💻 All of my projects are available at [https://github.com/Vishwajitbhosale](https://github.com/Vishwajitbhosale)
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/5452300426172724932](https://www.blogger.com/blog/posts/5452300426172724932)
 
