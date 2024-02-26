@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Playing Cricket**
 
-- 📍 Location: San Francisco, CA
+- 📍 Location: San Francisco, CA.
 
 🚀 Skills:
 
