@@ -19,7 +19,7 @@
 
 - 📍 Location: San Francisco, CA.
 
-🚀 Skills:
+🚀 Skills:.
 
 •	Programming languages: Java, Python (NumPy, Pandas, Matplotlib), R.
 
