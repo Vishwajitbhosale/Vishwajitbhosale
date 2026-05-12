@@ -14,10 +14,9 @@
 ## 🚀 About Me
 
 - 🔭 Currently working as **Data Scientist at Sikka.ai**, building AI solutions for the dental industry
-- 💰 Delivered **$900K+ in revenue** through production ML forecasting models and AI-powered products
 - 🤖 Specialized in **LLMs, Agentic AI, and ML in production** (AWS Bedrock, AutoGen, RAG systems)
 - 📊 Reduced cloud costs by **90%** through strategic architecture optimization
-- 🎯 Deployed AI voice receptionist generating **$102K annual revenue** across 17 practices
+- 🎯 Deployed AI voice receptionist for dental practices
 - 📍 Based in **San Jose, California**
 
 ---
