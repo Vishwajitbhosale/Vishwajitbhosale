@@ -96,45 +96,7 @@ impact_metrics = {
 
 ## 📫 Let's Connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/vishwajit-bhosale-400842202/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://github.com/Vishwajitbhosale" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-</a>
-<a href="mailto:bhosalevishvajeet04@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
-</a>
-</p>
-
 - 📧 Email: **bhosalevishvajeet04@gmail.com**
 - 💼 LinkedIn: [vishwajit-bhosale](https://www.linkedin.com/in/vishwajit-bhosale-400842202/)
 - 👨‍💻 Portfolio: [github.com/Vishwajitbhosale](https://github.com/Vishwajitbhosale)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwajitbhosale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajitbhosale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajitbhosale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishwajitbhosale/vishwajitbhosale/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishwajitbhosale/vishwajitbhosale/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishwajitbhosale/vishwajitbhosale/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<p align="center">
-  <em>"Turning data into decisions, and AI into products that matter."</em>
-</p>
